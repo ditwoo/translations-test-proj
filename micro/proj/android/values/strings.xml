@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="single.string">Single string</string>
+    <string name="single.text">Single text</string>
+    <plurals name="plurals.years">
+        <item quantity="one">Past %d year</item>
+        <item quantity="many">Past %d years</item>
+    </plurals>
+    <plurals name="plurals.days">
+        <item quantity="one">Past %d day</item>
+        <item quantity="many">Past %d days</item>
+    </plurals>
+    <plurals name="plurals.minutes">
+        <item quantity="one">Past %d minute</item>
+        <item quantity="many">Past %d minutes</item>
+    </plurals>
+</resources>

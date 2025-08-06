@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="single.string">Одна строка</string>
+    <string name="single.text">Один текст</string>
+    <plurals name="plurals.years">
+        <item quantity="one">Останній %d рік</item>
+        <item quantity="few">Останні %d рока</item>
+        <!-- <item quantity="many">Останні %d років</item> -->
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="plurals.days">
+        <item quantity="one"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="plurals.minutes">
+        <item quantity="one"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+</resources>
