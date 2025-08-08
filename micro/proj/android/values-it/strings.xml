@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="single.string"></string>
+    <string name="single.text"></string>
+    <plurals name="plurals.years">
+        <item quantity="zero"></item>
+	<item quantity="one"></item>
+	<item quantity="many"></item>
+	<item quantity="other"></item>
+    </plurals>
+    <plurals name="plurals.days">
+        <item quantity="one"></item>
+	<item quantity="many"></item>
+	<item quantity="many"></item>
+	<item quantity="other"></item>
+    </plurals>
+    <plurals name="plurals.minutes">
+        <item quantity="one"></item>
+	<item quantity="many"></item>
+        <item quantity="many"></item>
+	<item quantity="other"></item>
+    </plurals>
+</resources>
